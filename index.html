@@ -163,7 +163,7 @@
             <div class="column-inner dorik-column-o8u2tz4k 1/1">
               <div class="dorik-wrapper dorik-heading-vitlb95b-wrapper">
                 <h1 class="dorik-heading dorik-heading-vitlb95b">
-                  <span><p>3.0</p> </span>
+                  <span><p>3.1</p> </span>
                 </h1>
               </div>
               <div class="dorik-text dorik-text-z1gg2u97">
@@ -2167,10 +2167,10 @@
     <script src="https://assets.dorik.com/common/CountDownTimer.js"></script>
     <script src="https://cdn.dorik.com/common/js/splide.min.js"></script>
     <script type="text/javascript">
-      (function() {
+      (function () {
         var navbar = $(".dorik-nav-cmxaxovl");
-        (function($, navbar) {
-          $(navbar).on("click", "a", function(e) {
+        (function ($, navbar) {
+          $(navbar).on("click", "a", function (e) {
             var a = event.target.closest("a");
             var hash = a.hash;
 
@@ -2187,11 +2187,11 @@
                 var navbarHeight = event.currentTarget.clientHeight;
                 var scrollTop = section.top - navbarHeight;
                 var options = {
-                  easing: "linear"
+                  easing: "linear",
                 };
                 $("html, body").animate(
                   {
-                    scrollTop: scrollTop
+                    scrollTop: scrollTop,
                   },
                   options
                 );
@@ -2201,12 +2201,12 @@
         })($, navbar);
       })();
 
-      (function() {
+      (function () {
         var navbar = document.querySelector(".dorik-nav-cmxaxovl");
         (function toggleNav(el) {
           const toggleBtn = el.querySelector(".dorik-navbar--toggle");
           toggleBtn &&
-            toggleBtn.addEventListener("click", function(e) {
+            toggleBtn.addEventListener("click", function (e) {
               const navlist = toggleBtn.nextElementSibling;
               const hasShow = navlist.classList.contains("show");
 
@@ -2216,7 +2216,7 @@
                 collapse();
               }
 
-              navlist.addEventListener("click", function(e) {
+              navlist.addEventListener("click", function (e) {
                 if (
                   e.target.closest("a") &&
                   !e.target.closest(".is-dropdown")
@@ -2253,7 +2253,7 @@
         })(navbar);
         (function toggleDropdown(jQuery, navbar) {
           var dropdown = jQuery(navbar).find(".dorik-nav--links .is-dropdown");
-          jQuery(dropdown).on("click", function() {
+          jQuery(dropdown).on("click", function () {
             var dropdownItem = jQuery(this).find(".dorik-nav--dropdown");
             dropdownItem.toggleClass("expended");
           });
@@ -2288,11 +2288,11 @@
             }
           }
 
-          document.addEventListener("scroll", function(e) {
+          document.addEventListener("scroll", function (e) {
             last_known_scroll_position = window.scrollY;
 
             if (!ticking) {
-              window.requestAnimationFrame(function() {
+              window.requestAnimationFrame(function () {
                 scroll(last_known_scroll_position);
 
                 ticking = false;
@@ -2303,21 +2303,21 @@
         }
       })();
 
-      (function() {
+      (function () {
         var element = document.querySelector(
           ".dorik-counterdown-3l78jbdh-wrapper "
         );
         CountDownTimer(element, {
           zero: "with-zero",
           endtime: 1638807600000,
-          onlyHours: "only-hours"
+          onlyHours: "only-hours",
         });
       })();
 
-      (function() {
+      (function () {
         var navbar = $(".dorik-nav-hrqscse0");
-        (function($, navbar) {
-          $(navbar).on("click", "a", function(e) {
+        (function ($, navbar) {
+          $(navbar).on("click", "a", function (e) {
             var a = event.target.closest("a");
             var hash = a.hash;
 
@@ -2334,11 +2334,11 @@
                 var navbarHeight = event.currentTarget.clientHeight;
                 var scrollTop = section.top - navbarHeight;
                 var options = {
-                  easing: "linear"
+                  easing: "linear",
                 };
                 $("html, body").animate(
                   {
-                    scrollTop: scrollTop
+                    scrollTop: scrollTop,
                   },
                   options
                 );
@@ -2348,12 +2348,12 @@
         })($, navbar);
       })();
 
-      (function() {
+      (function () {
         var navbar = document.querySelector(".dorik-nav-hrqscse0");
         (function toggleNav(el) {
           const toggleBtn = el.querySelector(".dorik-navbar--toggle");
           toggleBtn &&
-            toggleBtn.addEventListener("click", function(e) {
+            toggleBtn.addEventListener("click", function (e) {
               const navlist = toggleBtn.nextElementSibling;
               const hasShow = navlist.classList.contains("show");
 
@@ -2363,7 +2363,7 @@
                 collapse();
               }
 
-              navlist.addEventListener("click", function(e) {
+              navlist.addEventListener("click", function (e) {
                 if (
                   e.target.closest("a") &&
                   !e.target.closest(".is-dropdown")
@@ -2400,14 +2400,14 @@
         })(navbar);
         (function toggleDropdown(jQuery, navbar) {
           var dropdown = jQuery(navbar).find(".dorik-nav--links .is-dropdown");
-          jQuery(dropdown).on("click", function() {
+          jQuery(dropdown).on("click", function () {
             var dropdownItem = jQuery(this).find(".dorik-nav--dropdown");
             dropdownItem.toggleClass("expended");
           });
         })($, navbar);
       })();
 
-      (function() {
+      (function () {
         var element = document.querySelector(
           ".dorik-testimonialSlider-nx3vtm2i"
         );
@@ -2424,26 +2424,25 @@
           arrows: true,
           pagination: false,
           breakpoints: {
-            "420": { perPage: 1, perMove: 1 },
-            "768": { perPage: 1, perMove: 1 }
-          }
+            420: { perPage: 1, perMove: 1 },
+            768: { perPage: 1, perMove: 1 },
+          },
         }).mount();
       })();
-      (function() {
+      (function () {
         var elem = $("#gzp1a8i8");
         function triggerSpinner(el, status) {
           el.find(".spinner").css("display", status ? "inline-block" : "none");
         }
         (function injectUniqId(elem) {
-          const uniqId = Math.random()
-            .toString(36)
-            .substring(2, 8);
+          const uniqId = Math.random().toString(36).substring(2, 8);
           var input = document.createElement("input");
           input.type = "hidden";
           input.value = uniqId;
           input.name = "_uid";
           elem.append(input);
         })(elem);
+      })();
     </script>
   </body>
 </html>
