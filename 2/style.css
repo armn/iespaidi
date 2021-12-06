@@ -1925,326 +1925,6 @@ h6 {
   }
 }
 /*Section*/
-.dorik-section-fjurokr4 {
-  min-height: 80vh;
-  background-image: url("https://assets.dorik.com/6015753544afdb0011b858a8/images/Mesa_de_trabajo_1@10x-100-min_ygeip6ow.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-
-  padding-bottom: 120px;
-  background-blend-mode: multiply;
-}
-.dorik-section-fjurokr4:before {
-}
-
-/*Row*/
-.dorik-row-fy5jed5y {
-  margin-bottom: 0px;
-
-  padding-bottom: 0px;
-  align-items: stretch;
-}
-.dorik-row-fy5jed5y-wrapper {
-}
-
-/*Column*/
-
-/*Title*/
-.dorik-heading-kthwgrf1 {
-  text-align: center;
-  text-transform: none;
-  font-size: 80px;
-  color: #151d4e;
-  letter-spacing: -1px;
-  line-height: 1.3;
-  margin-bottom: 0px;
-}
-
-.dorik-heading-kthwgrf1 p {
-  display: inline;
-}
-
-.dorik-heading-kthwgrf1 .dorik-heading__dynamic span {
-  display: inline-block;
-}
-
-/*Row*/
-
-/*Column*/
-
-/*Navigation*/
-.dorik-nav-hrqscse0 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
-
-/* Brand Style */
-
-.dorik-nav-hrqscse0 .dorik-navbar--brand {
-  width: 0px;
-}
-
-.dorik-navbar--brand img {
-  width: 100%;
-}
-/* Toggle Button*/
-
-/* Links */
-
-.dorik-nav-hrqscse0 .dorik-nav--links {
-  justify-content: center;
-}
-.dorik-nav-hrqscse0 .dorik-nav--link {
-  margin-right: 8px;
-}
-@media all and (max-width: 767px) {
-  .dorik-nav-hrqscse0 .dorik-nav--link {
-    margin-right: auto;
-    margin-bottom: 8px;
-  }
-}
-.dorik-nav-hrqscse0 .dorik-nav--links > li:last-child > a {
-  margin-right: 0;
-}
-.dorik-nav-hrqscse0 .dorik-nav--link-icon {
-  margin-right: 5px;
-}
-
-.dorik-nav-hrqscse0 .dorik-nav--link {
-  text-decoration: none;
-  color: rgba(21, 29, 78, 0.5);
-  font-size: 68px;
-}
-.dorik-nav-hrqscse0 .dorik-nav--link:hover {
-  color: #151d4e;
-}
-
-/* Buttons */
-
-.dorik-nav-hrqscse0 .dorik-nav--btn {
-  margin-right: 15px;
-}
-@media all and (max-width: 767px) {
-  .dorik-nav-hrqscse0 .dorik-nav--btn {
-    margin-right: auto;
-    margin-bottom: 15px;
-  }
-}
-.dorik-nav-hrqscse0 .dorik-nav--btns > li:last-child > a {
-  margin-right: 0;
-}
-
-.dorik-nav-hrqscse0 .dorik-nav--btn {
-  font-weight: 500;
-  border-radius: 50% 50% 50% 50%;
-  padding-top: 12px;
-  padding-bottom: 12px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
-/* DROPDOWN */
-
-.dorik-nav-hrqscse0 .is-dropdown {
-  position: relative;
-}
-.dorik-nav-hrqscse0 .is-dropdown:hover .dorik-nav--dropdown {
-  opacity: 1;
-  top: 100%;
-  visibility: visible;
-}
-
-.dorik-nav-hrqscse0 .dropdown-item .dropdown-text {
-  flex: 1 0;
-}
-
-.dorik-nav-hrqscse0 .dropdown-icon-gap {
-  display: inline-block;
-  width: undefined;
-}
-
-.dorik-nav-hrqscse0 .dorik-nav--dropdown {
-  padding: 0;
-  display: none;
-  padding: 5px 0;
-  background: #ffffff;
-  white-space: nowrap;
-  transition: all 0.2s;
-  list-style-type: none;
-}
-.dorik-nav-hrqscse0 .dorik-nav--dropdown.expended {
-  display: grid;
-}
-
-@media screen and (min-width: 768px) {
-  .dorik-nav-hrqscse0 .dorik-nav--dropdown {
-    left: 0;
-    top: 100%;
-    opacity: 0;
-    display: grid;
-    z-index: 99999;
-    visibility: hidden;
-    position: absolute;
-    box-shadow: rgb(43 53 86 / 15%) 0px 5px 20px 0px;
-  }
-}
-
-.dorik-nav-hrqscse0 .dropdown-item a {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  flex-direction: row;
-}
-
-@media screen and (max-width: 767px) {
-  .dorik-nav-hrqscse0 .dorik-nav--dropdown {
-    opacity: 1;
-    position: relative;
-    place-content: center;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  .dorik-navbar--toggle {
-    display: none;
-  }
-
-  .dorik-navbar--collapse {
-    flex-basis: auto;
-    align-items: center;
-    display: flex !important;
-    justify-content: flex-end;
-  }
-
-  .dorik-navbar--navs {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    padding-top: 0;
-  }
-
-  .dorik-nav-hrqscse0 .dorik-nav--links {
-    justify-content: center;
-  }
-  .dorik-nav-hrqscse0 .dorik-nav--link {
-    margin-right: 8px;
-  }
-  @media all and (max-width: 767px) {
-    .dorik-nav-hrqscse0 .dorik-nav--link {
-      margin-right: auto;
-      margin-bottom: 8px;
-    }
-  }
-  .dorik-nav-hrqscse0 .dorik-nav--links > li:last-child > a {
-    margin-right: 0;
-  }
-  .dorik-nav-hrqscse0 .dorik-nav--link-icon {
-    margin-right: 5px;
-  }
-
-  .dorik-nav--links {
-    justify-content: flex-end;
-    flex-direction: row;
-    padding-right: 30px !important;
-  }
-
-  .dorik-nav-hrqscse0 .dorik-nav--links {
-    justify-content: center;
-  }
-  .dorik-nav-hrqscse0 .dorik-nav--link {
-    margin-right: 8px;
-  }
-  @media all and (max-width: 767px) {
-    .dorik-nav-hrqscse0 .dorik-nav--link {
-      margin-right: auto;
-      margin-bottom: 8px;
-    }
-  }
-  .dorik-nav-hrqscse0 .dorik-nav--links > li:last-child > a {
-    margin-right: 0;
-  }
-  .dorik-nav-hrqscse0 .dorik-nav--link-icon {
-    margin-right: 5px;
-  }
-
-  .dorik-nav--link {
-    display: inline-flex;
-    text-decoration: none;
-    margin-bottom: 0;
-  }
-
-  .dorik-nav-hrqscse0 .dorik-nav--btn {
-    margin-right: 15px;
-  }
-  @media all and (max-width: 767px) {
-    .dorik-nav-hrqscse0 .dorik-nav--btn {
-      margin-right: auto;
-      margin-bottom: 15px;
-    }
-  }
-  .dorik-nav-hrqscse0 .dorik-nav--btns > li:last-child > a {
-    margin-right: 0;
-  }
-
-  .dorik-nav--btns {
-    display: flex;
-    flex-direction: row;
-  }
-
-  .dorik-nav-hrqscse0 .dorik-nav--btn {
-    margin-right: 15px;
-  }
-  @media all and (max-width: 767px) {
-    .dorik-nav-hrqscse0 .dorik-nav--btn {
-      margin-right: auto;
-      margin-bottom: 15px;
-    }
-  }
-  .dorik-nav-hrqscse0 .dorik-nav--btns > li:last-child > a {
-    margin-right: 0;
-  }
-
-  .dorik-nav--btn {
-    margin-right: auto;
-    margin-bottom: 0;
-  }
-}
-
-/*Column*/
-.dorik-column-piyakcra {
-  background-color: #c39aff;
-  border-radius: 15px 15px 0px 0px;
-  padding-top: 0px;
-  padding-bottom: 40px;
-  padding-left: 40px;
-  padding-right: 40px;
-  box-shadow: 15px 20px 40px 0px rgba(28, 21, 85, 0.05);
-  background-image: linear-gradient(340deg, #c284ff 0%, #6361ff 100%);
-  background-repeat: no-repeat;
-}
-
-/*Title*/
-.dorik-heading-ni9kcugs {
-  text-align: center;
-  letter-spacing: 3px;
-  margin-bottom: 25px;
-  text-transform: uppercase;
-  color: #ffffff;
-}
-
-.dorik-heading-ni9kcugs p {
-  display: inline;
-}
-
-.dorik-heading-ni9kcugs .dorik-heading__dynamic span {
-  display: inline-block;
-}
-
-/*Custom Code*/
-
-/*Section*/
 .dorik-section-60enny3i {
   padding-top: 100px;
   padding-bottom: 100px;
@@ -3870,16 +3550,24 @@ h6 {
 /*Horizontal Line*/
 .dorik-line-7a3sg1qp {
   border-width: 0;
-  background-color: #9d2e39;
-  height: 50px;
+  background-color: red;
+  height: 26px;
+  width: 100%;
+}
+
+/*Horizontal Line*/
+.dorik-line-8liuaj3z {
+  border-width: 0;
+  background-color: red;
+  height: 26px;
   width: 100%;
 }
 
 /*Horizontal Line*/
 .dorik-line-brz74kn4 {
   border-width: 0;
-  background-color: #9d2e39;
-  height: 50px;
+  background-color: red;
+  height: 26px;
   width: 100%;
 }
 
@@ -3889,7 +3577,7 @@ h6 {
 
 /*Icon*/
 .dorik-icon-262zfv1m {
-  margin-top: 28px;
+  margin-top: 60px;
 }
 .dorik-icon-262zfv1m-wrapper {
   text-align: center;
