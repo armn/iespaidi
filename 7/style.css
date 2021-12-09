@@ -1561,7 +1561,7 @@ code {
             
             @media all and (max-width: 1023px) {
                     .dorik-nav-cmxaxovl .dorik-navbar--brand {
-                          width: 37px; 
+                          width: 136px; 
 
                     }
                 }
@@ -1922,11 +1922,6 @@ background-color: #FFFFFF;
 
         }
     
-
-      .dorik-heading-vitlb95b {
-        
-      }
-
       .dorik-heading-vitlb95b p{
         display:inline;
       }
@@ -1943,16 +1938,8 @@ background-color: #FFFFFF;
   
 /*Text*/
 
-	.dorik-text-z1gg2u97 {
-	   
-	}
-	
 /*Text*/
 
-	.dorik-text-rsoxdtvz {
-	   
-	}
-	
 /*Section*/
 .dorik-section-3fmwy3x4 {
               padding-top: 100px;
@@ -2014,11 +2001,6 @@ color: #11163A;
         }
     
             }
-
-      .dorik-heading-t3rg4g3d {
-        
-      }
-
       .dorik-heading-t3rg4g3d p{
         display:inline;
       }
@@ -2061,21 +2043,75 @@ color: #11163A;
         
   
 /*Row*/
+.dorik-row-i8zfe1vb {
+              overflow-x: hidden; 
+
+        }
+    .dorik-row-i8zfe1vb-wrapper {
+  width: 100%; 
+
+}
+@media screen and (max-width: 1023px) {
+                            .dorik-row-i8zfe1vb {
+                                flex-direction: column-reverse;
+                            }
+                        }
+@media screen and (max-width: 767px) {
+                            .dorik-row-i8zfe1vb {
+                                flex-direction: column-reverse;
+                            }
+                        }
 
 /*Column*/
 
+/*Custom Code*/
+
+/*Column*/
+.dorik-column-46bi676z {
+              justify-content: center; 
+
+  padding-left: 40px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 30%;
+
+        }
+    @media screen and (max-width: 1023px) {
+                .dorik-column-46bi676z {
+              text-align: center; 
+
+  padding-left: 5%;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-right: 5%;
+
+        }
+    
+            }.dorik-column-46bi676z {
+            display: flex; 
+            flex-direction: column; 
+        }
+/*Image*/
+.dorik-image-d1v8j2v1 {
+              height: 100px; 
+  margin-bottom: -42px;
+
+        }
+    
 /*Title*/
+.dorik-heading-k0n65apf {
+              text-transform: uppercase; 
+  margin-bottom: 10px;
+  margin-left: 0px;
+  padding-top: 12px;
 
-
-      .dorik-heading-t41uoa8l {
-        
-      }
-
-      .dorik-heading-t41uoa8l p{
+        }
+    
+      .dorik-heading-k0n65apf p{
         display:inline;
       }
       
-      .dorik-heading-t41uoa8l .dorik-heading__dynamic span {
+      .dorik-heading-k0n65apf .dorik-heading__dynamic span {
         display:inline-block;
       }
       
@@ -2085,14 +2121,51 @@ color: #11163A;
             
         
   
-/*Column*/
+/*Title*/
+.dorik-heading-zcejqpke {
+              margin-top: 0px;
+  margin-bottom: 10px;
+  line-height: 1.2; 
+  letter-spacing: -1px; 
+  font-size: 60px; 
 
-/*Image*/
-.dorik-image-mmj0bagj {
-              object-fit: cover; 
+        }
+    @media screen and (max-width: 1023px) {
+                .dorik-heading-zcejqpke {
+              font-size: 50px; 
 
         }
     
+            }@media screen and (max-width: 767px) {
+                .dorik-heading-zcejqpke {
+              font-size: 30px; 
+
+        }
+    
+            }
+      .dorik-heading-zcejqpke p{
+        display:inline;
+      }
+      
+      .dorik-heading-zcejqpke .dorik-heading__dynamic span {
+        display:inline-block;
+      }
+      
+      
+            
+            
+            
+        
+  
+/*Text*/
+.dorik-text-9ic4g20h {
+              font-size: 18px; 
+  line-height: 1.5; 
+
+        }
+    
+/*Text*/
+
 /*Section*/
 
       
@@ -2112,11 +2185,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-uzo5z4zu {
-        
-      }
-
       .dorik-heading-uzo5z4zu p{
         display:inline;
       }
@@ -2210,10 +2278,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-hlgejnf1 {
-	   
-	}
-	
 /*Title*/
 .dorik-heading-ljsm1wgz {
             color: #0F0404;
@@ -2222,11 +2286,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-ljsm1wgz {
-        
-      }
-
       .dorik-heading-ljsm1wgz p{
         display:inline;
       }
@@ -2307,10 +2366,6 @@ background-color: #FFFFFF;
 
         }
     
-	.dorik-text-ot1w8qy4 {
-	   
-	}
-	
 /*Title*/
 .dorik-heading-jtelobg9 {
               margin-top: 10px;
@@ -2319,11 +2374,6 @@ color: #3055D3;
 
         }
     
-
-      .dorik-heading-jtelobg9 {
-        
-      }
-
       .dorik-heading-jtelobg9 p{
         display:inline;
       }
@@ -2345,10 +2395,6 @@ color: #3055D3;
 
         }
     
-	.dorik-text-8blkqlif {
-	   
-	}
-	
 /*Column*/
 .dorik-column-6awpst1y {
             
@@ -2378,14 +2424,13 @@ color: #3055D3;
 /*Section*/
 .dorik-section-fjurokr4 {
               min-height: 80vh; 
-background-image: url("https://cdn.dorik.com/6159f34f88e0ff001f9e1019/61ac34d6bc26600011f635f1/images/20-51_k0gaqofe.png"), radial-gradient(ellipse at center, #AF4D21 61%, #0A1029 76%);
+background-image: url("https://assets.dorik.com/6015753544afdb0011b858a8/images/Mesa_de_trabajo_1@10x-100-min_ygeip6ow.jpg"), radial-gradient(ellipse at center, #AF4D21 61%, #0A1029 76%);
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
 
   padding-bottom: 120px;
-  background-blend-mode: normal; 
-background-color: var(--color-1);
+  background-blend-mode: multiply; 
 
         }
     .dorik-section-fjurokr4:before {
@@ -2397,6 +2442,394 @@ background-color: var(--color-1);
             
         
   
+/*Row*/
+.dorik-row-fy5jed5y {
+            
+  margin-bottom: 0px;
+
+  padding-bottom: 0px;
+  align-items: stretch; 
+
+        }
+    .dorik-row-fy5jed5y-wrapper {
+
+}
+
+/*Column*/
+
+/*Title*/
+.dorik-heading-kthwgrf1 {
+              text-align: center; 
+  text-transform: none; 
+  font-size: 41px; 
+color: #FFFFFF;
+  letter-spacing: -1px; 
+  line-height: 1.3; 
+  margin-bottom: 0px;
+
+        }
+    
+      .dorik-heading-kthwgrf1 p{
+        display:inline;
+      }
+      
+      .dorik-heading-kthwgrf1 .dorik-heading__dynamic span {
+        display:inline-block;
+      }
+      
+      
+            
+            
+            
+        
+  
+/*Row*/
+
+/*Column*/
+
+/*Navigation*/
+.dorik-nav-hrqscse0 {
+              padding-top: 30px;
+  padding-bottom: 30px;
+
+        }
+    
+                
+                /* Brand Style */
+                
+            .dorik-nav-hrqscse0 .dorik-navbar--brand {
+                  width: 0px; 
+
+            }
+            
+            
+        
+                .dorik-navbar--brand img {
+                    width: 100%;
+                }
+                /* Toggle Button*/
+                
+            
+            
+            
+        
+                /* Links */
+                
+            .dorik-nav-hrqscse0 .dorik-nav--links {
+                justify-content: center;
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--link {
+                    margin-right: 8px;
+                    
+                    
+                }
+            @media all and (max-width: 767px) {
+                .dorik-nav-hrqscse0 .dorik-nav--link {
+                    margin-right: auto;
+                    margin-bottom: 8px;
+                }
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--links > li:last-child > a {
+                margin-right: 0;
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--link-icon {
+                    
+                    margin-right: 5px;
+                }
+        
+                
+            .dorik-nav-hrqscse0 .dorik-nav--link {
+                text-decoration: none;
+color: #1A7FDF;
+  font-size: 68px; 
+
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--link:hover {
+                color: #151D4E;
+
+            }
+            
+        
+                /* Buttons */
+                
+            
+            .dorik-nav-hrqscse0 .dorik-nav--btn {
+                    margin-right: 15px;
+                    
+                    
+                }
+            @media all and (max-width: 767px) {
+                .dorik-nav-hrqscse0 .dorik-nav--btn {
+                    margin-right: auto;
+                    margin-bottom: 15px;
+                }
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--btns > li:last-child > a {
+                margin-right: 0;
+            }
+            
+        
+                
+            .dorik-nav-hrqscse0 .dorik-nav--btn {
+                  font-weight: 500; 
+  border-radius: 50% 50% 50% 50%; 
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+            }
+            
+            
+        
+                
+
+                /* DROPDOWN */
+                
+        .dorik-nav-hrqscse0 .is-dropdown {
+            position: relative;
+        }
+        .dorik-nav-hrqscse0 .is-dropdown:hover .dorik-nav--dropdown {
+            opacity: 1;
+            top: 100%;
+            visibility: visible;
+        }
+
+        .dorik-nav-hrqscse0 .dropdown-item .dropdown-text {
+            flex: 1 0;
+        }
+
+        .dorik-nav-hrqscse0 .dropdown-icon-gap {
+            display: inline-block;
+            width: undefined;
+        }
+
+        .dorik-nav-hrqscse0 .dorik-nav--dropdown {
+            padding: 0;
+            display: none;
+            padding: 5px 0;
+            background: #ffffff;
+            white-space: nowrap;
+            transition: all 0.2s;
+            list-style-type: none;
+        }
+        .dorik-nav-hrqscse0 .dorik-nav--dropdown.expended {
+            display: grid;
+        }
+
+        @media screen and (min-width: 768px) {
+            .dorik-nav-hrqscse0 .dorik-nav--dropdown {
+                left: 0;
+                top: 100%;
+                opacity: 0;
+                display: grid;
+                z-index: 99999;
+                visibility: hidden;
+                position: absolute;
+                box-shadow: rgb(43 53 86 / 15%) 0px 5px 20px 0px;
+            }
+        }
+    
+                
+            
+            
+            
+        
+                .dorik-nav-hrqscse0 .dropdown-item a {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        flex-direction: row;
+    }
+            
+            
+            
+        
+                
+                @media screen and (max-width:767px){
+                    .dorik-nav-hrqscse0 .dorik-nav--dropdown {
+                        opacity:1;
+                        position:relative;
+                        place-content:center;
+                    }
+                }
+
+                @media screen and (min-width: 768px) and (max-width: 1023px) {
+                    
+            
+            
+            
+        
+                    .dorik-navbar--toggle {
+                        display: none;
+                    }
+                    
+            
+            
+            
+        
+                    .dorik-navbar--collapse{
+                        flex-basis: auto;
+                        align-items: center;
+                        display: flex !important;
+                        justify-content: flex-end;
+                    }
+                    
+            
+            
+            
+        
+                    .dorik-navbar--navs{
+                        flex: 1;
+                        display: flex;
+                        align-items: center;
+                        justify-content: flex-end;
+                        padding-top: 0;
+                    }
+                    
+            .dorik-nav-hrqscse0 .dorik-nav--links {
+                justify-content: center;
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--link {
+                    margin-right: 8px;
+                    
+                    
+                }
+            @media all and (max-width: 767px) {
+                .dorik-nav-hrqscse0 .dorik-nav--link {
+                    margin-right: auto;
+                    margin-bottom: 8px;
+                }
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--links > li:last-child > a {
+                margin-right: 0;
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--link-icon {
+                    
+                    margin-right: 5px;
+                }
+        
+                    .dorik-nav--links{
+                        justify-content: flex-end;
+                        flex-direction: row;
+                        padding-right: 30px !important;
+                    }
+
+                    
+            .dorik-nav-hrqscse0 .dorik-nav--links {
+                justify-content: center;
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--link {
+                    margin-right: 8px;
+                    
+                    
+                }
+            @media all and (max-width: 767px) {
+                .dorik-nav-hrqscse0 .dorik-nav--link {
+                    margin-right: auto;
+                    margin-bottom: 8px;
+                }
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--links > li:last-child > a {
+                margin-right: 0;
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--link-icon {
+                    
+                    margin-right: 5px;
+                }
+        
+                    .dorik-nav--link{
+                        display: inline-flex;
+                        text-decoration: none;
+                        margin-bottom: 0;
+                    }
+
+                    
+            
+            .dorik-nav-hrqscse0 .dorik-nav--btn {
+                    margin-right: 15px;
+                    
+                    
+                }
+            @media all and (max-width: 767px) {
+                .dorik-nav-hrqscse0 .dorik-nav--btn {
+                    margin-right: auto;
+                    margin-bottom: 15px;
+                }
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--btns > li:last-child > a {
+                margin-right: 0;
+            }
+            
+        
+                    .dorik-nav--btns{
+                        display: flex;                            
+                        flex-direction: row;
+                    }
+                    
+            
+            .dorik-nav-hrqscse0 .dorik-nav--btn {
+                    margin-right: 15px;
+                    
+                    
+                }
+            @media all and (max-width: 767px) {
+                .dorik-nav-hrqscse0 .dorik-nav--btn {
+                    margin-right: auto;
+                    margin-bottom: 15px;
+                }
+            }
+            .dorik-nav-hrqscse0 .dorik-nav--btns > li:last-child > a {
+                margin-right: 0;
+            }
+            
+        
+                    .dorik-nav--btn{
+                        margin-right: auto;
+                        margin-bottom: 0;
+                    }
+                }
+            
+/*Column*/
+.dorik-column-piyakcra {
+            background-color: #C39AFF;
+  border-radius: 15px 15px 0px 0px; 
+  padding-top: 0px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+box-shadow: 15px 20px 40px 0px rgba(28, 21, 85, 0.05) ;
+background-image: linear-gradient(340deg, #C284FF 0%, #6361FF 100%);
+  background-repeat: no-repeat; 
+
+        }
+    
+/*Title*/
+.dorik-heading-ni9kcugs {
+              text-align: center; 
+  letter-spacing: 3px; 
+  margin-bottom: 25px;
+  text-transform: uppercase; 
+color: #FFFFFF;
+
+        }
+    
+      .dorik-heading-ni9kcugs p{
+        display:inline;
+      }
+      
+      .dorik-heading-ni9kcugs .dorik-heading__dynamic span {
+        display:inline-block;
+      }
+      
+      
+            
+            
+            
+        
+  
+/*Custom Code*/
+
 /*Section*/
 .dorik-section-60enny3i {
               padding-top: 100px;
@@ -2430,11 +2863,6 @@ background-color: #F9FAFF;
             }
 /*Title*/
 
-
-      .dorik-heading-7i5peb67 {
-        
-      }
-
       .dorik-heading-7i5peb67 p{
         display:inline;
       }
@@ -2453,10 +2881,6 @@ background-color: #F9FAFF;
 
 /*Text*/
 
-	.dorik-text-c72uls8m {
-	   
-	}
-	
 /*Row*/
 .dorik-row-ghb96zyq {
               margin-top: 100px;
@@ -2490,11 +2914,6 @@ background-color: #FFFFFF;
 
         }
     
-
-      .dorik-heading-8dwea5o2 {
-        
-      }
-
       .dorik-heading-8dwea5o2 p{
         display:inline;
       }
@@ -2525,6 +2944,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-dtjrh5ox {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-dtjrh5ox .icon_text p{
         margin: 0;
     }.dorik-iconText-dtjrh5ox .icon {
@@ -2548,6 +2968,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-nt5mpugg {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-nt5mpugg .icon_text p{
         margin: 0;
     }.dorik-iconText-nt5mpugg .icon {
@@ -2571,6 +2992,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-55mzxvbm {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-55mzxvbm .icon_text p{
         margin: 0;
     }.dorik-iconText-55mzxvbm .icon {
@@ -2594,6 +3016,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-detf5txl {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-detf5txl .icon_text p{
         margin: 0;
     }.dorik-iconText-detf5txl .icon {
@@ -2617,6 +3040,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-1177bnm7 {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-1177bnm7 .icon_text p{
         margin: 0;
     }.dorik-iconText-1177bnm7 .icon {
@@ -2640,6 +3064,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-dhjlow22 {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-dhjlow22 .icon_text p{
         margin: 0;
     }.dorik-iconText-dhjlow22 .icon {
@@ -2663,6 +3088,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-t1tkk56b {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-t1tkk56b .icon_text p{
         margin: 0;
     }.dorik-iconText-t1tkk56b .icon {
@@ -2679,11 +3105,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-462gtbrm {
-        
-      }
-
       .dorik-heading-462gtbrm p{
         display:inline;
       }
@@ -2767,11 +3188,6 @@ box-shadow: 10px 20px 30px 0px rgba(28, 21, 85, 0.2) ;
 
         }
     
-
-      .dorik-heading-7azle488 {
-        
-      }
-
       .dorik-heading-7azle488 p{
         display:inline;
       }
@@ -2801,11 +3217,6 @@ color: #FFFFFF;
 
         }
     
-
-      .dorik-heading-589a4f0o {
-        
-      }
-
       .dorik-heading-589a4f0o p{
         display:inline;
       }
@@ -2837,6 +3248,7 @@ color: #FFFFFF;
         }
     .dorik-iconText-7lttos8w {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-7lttos8w .icon_text p{
         margin: 0;
     }.dorik-iconText-7lttos8w .icon {
@@ -2900,11 +3312,6 @@ background-color: #FFFFFF;
 
         }
     
-
-      .dorik-heading-yn55qb19 {
-        
-      }
-
       .dorik-heading-yn55qb19 p{
         display:inline;
       }
@@ -2935,6 +3342,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-nl5cci02 {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-nl5cci02 .icon_text p{
         margin: 0;
     }.dorik-iconText-nl5cci02 .icon {
@@ -2958,6 +3366,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-m5mv96h5 {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-m5mv96h5 .icon_text p{
         margin: 0;
     }.dorik-iconText-m5mv96h5 .icon {
@@ -2981,6 +3390,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-xbb80kc9 {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-xbb80kc9 .icon_text p{
         margin: 0;
     }.dorik-iconText-xbb80kc9 .icon {
@@ -3004,6 +3414,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-1awebht0 {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-1awebht0 .icon_text p{
         margin: 0;
     }.dorik-iconText-1awebht0 .icon {
@@ -3027,6 +3438,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-e5fr983b {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-e5fr983b .icon_text p{
         margin: 0;
     }.dorik-iconText-e5fr983b .icon {
@@ -3050,6 +3462,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-885hq4xl {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-885hq4xl .icon_text p{
         margin: 0;
     }.dorik-iconText-885hq4xl .icon {
@@ -3073,6 +3486,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-dnw0o960 {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-dnw0o960 .icon_text p{
         margin: 0;
     }.dorik-iconText-dnw0o960 .icon {
@@ -3096,6 +3510,7 @@ background-color: #FFFFFF;
         }
     .dorik-iconText-nxlkddha {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-nxlkddha .icon_text p{
         margin: 0;
     }.dorik-iconText-nxlkddha .icon {
@@ -3112,11 +3527,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-4ira1b21 {
-        
-      }
-
       .dorik-heading-4ira1b21 p{
         display:inline;
       }
@@ -3218,11 +3628,6 @@ color: #ffffff;
         }
     
             }
-
-      .dorik-heading-vkyd06ti {
-        
-      }
-
       .dorik-heading-vkyd06ti p{
         display:inline;
       }
@@ -3257,10 +3662,6 @@ color: rgba(229, 234, 255, 0.7);
         }
     
             }
-	.dorik-text-x7xaikzm {
-	   
-	}
-	
 /*Row*/
 
 /*Column*/
@@ -3355,10 +3756,6 @@ background-image: linear-gradient(45deg, #FC466B 0%, #3F5EFB 100%);
 
         }
     
-	.dorik-text-oe1kmb26 {
-	   
-	}
-	
 /*Title*/
 .dorik-heading-ma4yxvp7 {
             color: #FFFFFF;
@@ -3367,11 +3764,6 @@ background-image: linear-gradient(45deg, #FC466B 0%, #3F5EFB 100%);
 
         }
     
-
-      .dorik-heading-ma4yxvp7 {
-        
-      }
-
       .dorik-heading-ma4yxvp7 p{
         display:inline;
       }
@@ -3395,10 +3787,6 @@ background-image: linear-gradient(45deg, #FC466B 0%, #3F5EFB 100%);
 
         }
     
-	.dorik-text-0hvgkbtv {
-	   
-	}
-	
 /*Row*/
 .dorik-row-92mxpkeo {
               margin-top: 60px;
@@ -3604,11 +3992,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-oovmldre {
-        
-      }
-
       .dorik-heading-oovmldre p{
         display:inline;
       }
@@ -3649,80 +4032,6 @@ color: #11163A;
         }
 
 /*Column*/
-.dorik-column-kcqmvco0 {
-              text-align: left; 
-  margin-top: 0px;
-  margin-bottom: 30px;
-  padding-left: 40px;
-  padding-right: 40px;
-  padding-top: 0px;
-  padding-bottom: 0px;
-background-color: #FFFFFF;
-  border-radius: 10px 10px 10px 10px; 
-box-shadow: 5px 5px 30px 0px rgba(206, 174, 158, 0.2) ;
-
-        }
-    @media screen and (max-width: 1023px) {
-                
-            }
-/*Title*/
-.dorik-heading-rtxf4x69 {
-              font-size: 48px; 
-color: #11163A;
-  margin-bottom: 15px;
-  margin-top: 40px;
-  text-align: center; 
-
-        }
-    
-
-      .dorik-heading-rtxf4x69 {
-        
-      }
-
-      .dorik-heading-rtxf4x69 p{
-        display:inline;
-      }
-      
-      .dorik-heading-rtxf4x69 .dorik-heading__dynamic span {
-        display:inline-block;
-      }
-      
-      
-            
-            
-            
-        
-  
-/*Text*/
-.dorik-text-djijutzh {
-            color: #757D9A;
-  font-size: 15px; 
-  line-height: 24px; 
-  margin-top: 0px;
-  margin-bottom: 0px;
-
-
-
-        }
-    
-	.dorik-text-djijutzh {
-	   
-	}
-	
-/*Video*/
-.dorik-video-1c7mluvn {
-              min-height: auto; 
-
-  margin-bottom: 60px;
-
-        }
-    .dorik-video-1c7mluvn-wrapper {
-  text-align: left; 
-
-}
-
-/*Column*/
 .dorik-column-j3luq421 {
               text-align: left; 
   margin-top: 0px;
@@ -3749,11 +4058,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-h6gbgpiq {
-        
-      }
-
       .dorik-heading-h6gbgpiq p{
         display:inline;
       }
@@ -3780,10 +4084,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-f4dpurt9 {
-	   
-	}
-	
 /*Video*/
 .dorik-video-1eqhs7rc {
               min-height: auto; 
@@ -3823,11 +4123,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-infd28k9 {
-        
-      }
-
       .dorik-heading-infd28k9 p{
         display:inline;
       }
@@ -3854,10 +4149,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-4sbfj4lm {
-	   
-	}
-	
 /*Video*/
 
 /*Column*/
@@ -3887,11 +4178,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-k5pj2udu {
-        
-      }
-
       .dorik-heading-k5pj2udu p{
         display:inline;
       }
@@ -3918,10 +4204,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-octhdycq {
-	   
-	}
-	
 /*Video*/
 .dorik-video-zzpn5hrq {
               margin-bottom: 60px;
@@ -3944,11 +4226,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-w2xauzhg {
-        
-      }
-
       .dorik-heading-w2xauzhg p{
         display:inline;
       }
@@ -3995,10 +4272,6 @@ color: #11163A;
 
 /*Custom Code*/
 
-/*Column*/
-
-/*Custom Code*/
-
 /*Row*/
 .dorik-row-n1rn3xqc {
               margin-top: 0px;
@@ -4020,6 +4293,7 @@ color: #11163A;
         }
     .dorik-iconText-cfhzm8sw {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-cfhzm8sw .icon_text p{
         margin: 0;
     }.dorik-iconText-cfhzm8sw .icon {
@@ -4029,10 +4303,6 @@ color: #11163A;
         }
 /*Text*/
 
-	.dorik-text-hf8xmhys {
-	   
-	}
-	
 /*Button*/
 .dorik-button-o3awwgvk {
               padding-top: 20px;
@@ -4128,6 +4398,7 @@ background-color: #9D2E39;
         }
     .dorik-iconText-oyil7hpa {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-oyil7hpa .icon_text p{
         margin: 0;
     }.dorik-iconText-oyil7hpa .icon {
@@ -4136,35 +4407,8 @@ background-color: #9D2E39;
             padding-left: 0px;
         }
 /*Row*/
-.dorik-row-gsh3f07y {
-              align-items: stretch; 
-
-        }
-    .dorik-row-gsh3f07y-wrapper {
-  width: 100%; 
-
-}
-
-/*Column*/
-
-/*Video*/
-
-/*Column*/
-
-/*Video*/
-.dorik-video-jh0fxt9y {
-              max-height: 300px; 
-
-        }
-    
-/*Column*/
-
-/*Video*/
-
-/*Row*/
 .dorik-row-a3wdogf0 {
               align-items: stretch; 
-  margin-top: 30px;
 
         }
     .dorik-row-a3wdogf0-wrapper {
@@ -4176,6 +4420,14 @@ background-color: #9D2E39;
 
 /*Custom Code*/
 
+/*Column*/
+
+/*Video*/
+.dorik-video-m3kudf57 {
+              max-height: 300px; 
+
+        }
+    
 /*Column*/
 
 /*Custom Code*/
@@ -4234,6 +4486,7 @@ background-color: #9D2E39;
         }
     .dorik-iconText-yp1fjvma {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-yp1fjvma .icon_text p{
         margin: 0;
     }.dorik-iconText-yp1fjvma .icon {
@@ -4248,10 +4501,6 @@ background-color: #9D2E39;
 
         }
     
-	.dorik-text-qkbbevdz {
-	   
-	}
-	
 /*Button*/
 .dorik-button-ib9uzhsf {
               padding-top: 20px;
@@ -4352,10 +4601,6 @@ text-shadow: none;
 
         }
     
-	.dorik-text-3lcu2zjj {
-	   
-	}
-	
 /*Row*/
 .dorik-row-h37899fu {
               margin-top: 60px;
@@ -4402,11 +4647,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-u96a05x7 {
-        
-      }
-
       .dorik-heading-u96a05x7 p{
         display:inline;
       }
@@ -4427,10 +4667,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-i4rvi7ck {
-	   
-	}
-	
 /*Text*/
 .dorik-text-coymbugf {
             color: #757D9A;
@@ -4443,10 +4679,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-coymbugf {
-	   
-	}
-	
 /*Video*/
 .dorik-video-dcwox7do {
               margin-bottom: 60px;
@@ -4480,11 +4712,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-2qijjugh {
-        
-      }
-
       .dorik-heading-2qijjugh p{
         display:inline;
       }
@@ -4505,10 +4732,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-m3aizbmt {
-	   
-	}
-	
 /*Text*/
 .dorik-text-ajgd0gu1 {
             color: #757D9A;
@@ -4521,10 +4744,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-ajgd0gu1 {
-	   
-	}
-	
 /*Video*/
 .dorik-video-7i7jcldj {
               margin-bottom: 60px;
@@ -4558,11 +4777,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-wjst3y7t {
-        
-      }
-
       .dorik-heading-wjst3y7t p{
         display:inline;
       }
@@ -4583,10 +4797,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-timvmp77 {
-	   
-	}
-	
 /*Text*/
 .dorik-text-1nz9g4xe {
             color: #757D9A;
@@ -4599,10 +4809,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-1nz9g4xe {
-	   
-	}
-	
 /*Video*/
 .dorik-video-09q4zpkw {
               margin-bottom: 60px;
@@ -4644,10 +4850,6 @@ box-shadow: 5px 5px 30px 0px rgba(206, 174, 158, 0.2) ;
 
         }
     
-	.dorik-text-y8qd4abw {
-	   
-	}
-	
 /*Title*/
 .dorik-heading-wxf0tzz5 {
               font-size: 48px; 
@@ -4658,11 +4860,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-wxf0tzz5 {
-        
-      }
-
       .dorik-heading-wxf0tzz5 p{
         display:inline;
       }
@@ -4683,10 +4880,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-t0jx2z35 {
-	   
-	}
-	
 /*Contact Form*/
 
         
@@ -4755,11 +4948,6 @@ background-color: #26C281;
 
         }
     
-
-      .dorik-heading-j2fqcbw8 {
-        
-      }
-
       .dorik-heading-j2fqcbw8 p{
         display:inline;
       }
@@ -4782,10 +4970,6 @@ background-color: #26C281;
 
         }
     
-	.dorik-text-mnphs9cv {
-	   
-	}
-	
 /*Text*/
 .dorik-text-ycoddag4 {
               text-align: center; 
@@ -4793,10 +4977,6 @@ background-color: #26C281;
 
         }
     
-	.dorik-text-ycoddag4 {
-	   
-	}
-	
 /*Section*/
 .dorik-section-oz3bvokh {
               padding-top: 100px;
@@ -4857,11 +5037,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-lr9r2q8y {
-        
-      }
-
       .dorik-heading-lr9r2q8y p{
         display:inline;
       }
@@ -4892,10 +5067,6 @@ color: #11163A;
         }
     
             }
-	.dorik-text-d7lduorr {
-	   
-	}
-	
 /*Column*/
 .dorik-column-99akhmv4 {
               text-align: left; 
@@ -4923,11 +5094,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-tirlmxl6 {
-        
-      }
-
       .dorik-heading-tirlmxl6 p{
         display:inline;
       }
@@ -4952,11 +5118,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-nkddj5u5 {
-        
-      }
-
       .dorik-heading-nkddj5u5 p{
         display:inline;
       }
@@ -4980,10 +5141,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-oooms9pp {
-	   
-	}
-	
 /*Horizontal Line*/
 .dorik-line-fjjs6tpj {
               border-width: 0;
@@ -5008,6 +5165,7 @@ background-color: #E8E8E8;
         }
     .dorik-iconText-lqynclog {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-lqynclog .icon_text p{
         margin: 0;
     }.dorik-iconText-lqynclog .icon {
@@ -5031,6 +5189,7 @@ background-color: #E8E8E8;
         }
     .dorik-iconText-s5vz9yf6 {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-s5vz9yf6 .icon_text p{
         margin: 0;
     }.dorik-iconText-s5vz9yf6 .icon {
@@ -5054,6 +5213,7 @@ background-color: #E8E8E8;
         }
     .dorik-iconText-8vhhabz9 {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-8vhhabz9 .icon_text p{
         margin: 0;
     }.dorik-iconText-8vhhabz9 .icon {
@@ -5130,11 +5290,6 @@ color: #FFFFFF;
 
         }
     
-
-      .dorik-heading-t48mb2lp {
-        
-      }
-
       .dorik-heading-t48mb2lp p{
         display:inline;
       }
@@ -5158,11 +5313,6 @@ color: #11163A;
 
         }
     
-
-      .dorik-heading-49behnog {
-        
-      }
-
       .dorik-heading-49behnog p{
         display:inline;
       }
@@ -5185,10 +5335,6 @@ color: #11163A;
 
         }
     
-	.dorik-text-49nhrd6f {
-	   
-	}
-	
 /*Horizontal Line*/
 .dorik-line-cnispx0x {
               border-width: 0;
@@ -5214,6 +5360,7 @@ background-color: #E8E8E8;
         }
     .dorik-iconText-vzdtc7fj {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-vzdtc7fj .icon_text p{
         margin: 0;
     }.dorik-iconText-vzdtc7fj .icon {
@@ -5238,6 +5385,7 @@ background-color: #E8E8E8;
         }
     .dorik-iconText-o52dcntn {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-o52dcntn .icon_text p{
         margin: 0;
     }.dorik-iconText-o52dcntn .icon {
@@ -5262,6 +5410,7 @@ background-color: #E8E8E8;
         }
     .dorik-iconText-9845vbrd {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-9845vbrd .icon_text p{
         margin: 0;
     }.dorik-iconText-9845vbrd .icon {
@@ -5286,6 +5435,7 @@ background-color: #E8E8E8;
         }
     .dorik-iconText-vtw9snjo {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-vtw9snjo .icon_text p{
         margin: 0;
     }.dorik-iconText-vtw9snjo .icon {
@@ -5309,6 +5459,7 @@ background-color: #E8E8E8;
         }
     .dorik-iconText-efbvvgfv {
         display: flex;
+        align-items: flex-start;
     }.dorik-iconText-efbvvgfv .icon_text p{
         margin: 0;
     }.dorik-iconText-efbvvgfv .icon {
@@ -5390,11 +5541,6 @@ color: #11163A;
         }
     
             }
-
-      .dorik-heading-6vn8zmmy {
-        
-      }
-
       .dorik-heading-6vn8zmmy p{
         display:inline;
       }
@@ -5437,10 +5583,6 @@ color: #11163A;
         }
     
             }
-	.dorik-text-4fm08kki {
-	   
-	}
-	
 /*Row*/
 .dorik-row-r9pidlj1 {
               margin-top: 40px;
@@ -5615,11 +5757,6 @@ color: #FFFFFF;
 
         }
     
-
-      .dorik-heading-3vsqc50o {
-        
-      }
-
       .dorik-heading-3vsqc50o p{
         display:inline;
       }
@@ -5683,10 +5820,6 @@ color: rgba(229, 234, 255, 0.7);
 
         }
     
-	.dorik-text-d1572053 {
-	   
-	}
-	
 /*Title*/
 .dorik-heading-8ry8n5d6 {
               margin-top: 10px;
@@ -5695,11 +5828,6 @@ color: #FFFFFF;
 
         }
     
-
-      .dorik-heading-8ry8n5d6 {
-        
-      }
-
       .dorik-heading-8ry8n5d6 p{
         display:inline;
       }
@@ -5722,10 +5850,6 @@ color: rgba(229, 234, 255, 0.7);
 
         }
     
-	.dorik-text-o70xkc1z {
-	   
-	}
-	
 /*Column*/
 .dorik-column-bz4zyouj {
             
@@ -5773,13 +5897,6 @@ background-color: #FFFFFF;
 /*Text*/
 .dorik-text-ajyaluup {
               text-align: center; 
-  margin-top: 0px;
-  margin-bottom: 0px;
-  padding-top: 0px;
 
         }
     
-	.dorik-text-ajyaluup {
-	   
-	}
-	
