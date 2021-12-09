@@ -1516,8 +1516,6 @@ code {
 .dorik-row-dryk4h4q {
               padding-left: 2%;
   padding-right: 2%;
-background-image: linear-gradient(45deg, #FC466B 0%, #3F5EFB 100%);
-  background-repeat: no-repeat; 
 
         }
     .dorik-row-dryk4h4q-wrapper {
@@ -1897,10 +1895,7 @@ background-color: #FFFFFF;
                 }
             
 /*Section*/
-.dorik-section-f472h7dg {
-            
-        }
-    
+
       
             
             
@@ -1946,6 +1941,12 @@ background-color: #FFFFFF;
             
         
   
+/*Text*/
+
+	.dorik-text-z1gg2u97 {
+	   
+	}
+	
 /*Text*/
 
 	.dorik-text-rsoxdtvz {
@@ -2064,22 +2065,17 @@ color: #11163A;
 /*Column*/
 
 /*Title*/
-.dorik-heading-hyczooyp {
-              text-align: center; 
-  text-transform: uppercase; 
 
-        }
-    
 
-      .dorik-heading-hyczooyp {
+      .dorik-heading-t41uoa8l {
         
       }
 
-      .dorik-heading-hyczooyp p{
+      .dorik-heading-t41uoa8l p{
         display:inline;
       }
       
-      .dorik-heading-hyczooyp .dorik-heading__dynamic span {
+      .dorik-heading-t41uoa8l .dorik-heading__dynamic span {
         display:inline-block;
       }
       
@@ -2089,128 +2085,11 @@ color: #11163A;
             
         
   
-/*Section*/
-.dorik-section-wlxiq7va {
-              padding-top: 100px;
-  padding-bottom: 100px;
-
-background-color: #FFFFFF;
-
-        }
-    
-      
-            
-            
-            
-        
-  
-/*Row*/
-.dorik-row-69buh7g3 {
-            box-shadow: none;
-  border-radius: 10px 10px 10px 10px; 
-  margin-left: 0px;
-  margin-right: 0px;
-  padding-left: 0px;
-
-        }
-    
-/*Column*/
-.dorik-column-o7wayhdk {
-              justify-content: center; 
-
-  padding-right: 60px;
-
-  padding-bottom: 0px;
-
-        }
-    @media screen and (max-width: 1023px) {
-                .dorik-column-o7wayhdk {
-            
-
-  padding-left: 40px;
-  padding-right: 40px;
-
-  padding-bottom: 60px;
-
-        }
-    
-            }@media screen and (max-width: 767px) {
-                .dorik-column-o7wayhdk {
-              padding-left: 0px;
-  padding-right: 0px;
-
-  padding-bottom: 60px;
-
-
-        }
-    
-            }.dorik-column-o7wayhdk {
-            display: flex; 
-            flex-direction: column; 
-        }
-/*Title*/
-.dorik-heading-wp7786qz {
-              text-align: center; 
-
-        }
-    
-
-      .dorik-heading-wp7786qz {
-        
-      }
-
-      .dorik-heading-wp7786qz p{
-        display:inline;
-      }
-      
-      .dorik-heading-wp7786qz .dorik-heading__dynamic span {
-        display:inline-block;
-      }
-      
-      
-            
-            
-            
-        
-  
-/*Button*/
-.dorik-button-rrij6l7q {
-              padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 30px;
-  padding-right: 30px;
-text-decoration: none;
-  justify-content: center; 
-  border-radius: 5px 5px 5px 5px; 
-  border-width: 0px;
-
-
-background-color: #3055D3;
-  font-size: 16px; 
-color: #FFFFFF;
-  line-height: 16px; 
-  margin-top: 30px;
-  text-transform: uppercase; 
-
-        }
-    .dorik-button-rrij6l7q-wrapper {
-  text-align: center; 
-
-}
-.dorik-button-rrij6l7q .icon {
-        font-size: 84px;margin-right: 14px;
-        transition: null
-        
-    }
-    .dorik-button-rrij6l7q:hover .icon {
-        color: null;
-    }
 /*Column*/
 
 /*Image*/
-.dorik-image-45x27ev3 {
-            
-  border-radius: 10px 10px 10px 10px; 
+.dorik-image-mmj0bagj {
+              object-fit: cover; 
 
         }
     
@@ -2312,6 +2191,15 @@ box-shadow: 5px 5px 30px 0px rgba(29, 35, 55, 0.05) ;
 .dorik-icon-nbt7qh07 .icon {
             font-size: 100px;color: #3055D3;
         }
+/*Video*/
+.dorik-video-n01x7ju8 {
+              height: 150px; 
+  max-height: 200px; 
+  min-height: 100px; 
+  margin-top: 50px;
+
+        }
+    
 /*Text*/
 .dorik-text-hlgejnf1 {
               font-size: 40px; 
@@ -2503,36 +2391,6 @@ background-color: var(--color-1);
     .dorik-section-fjurokr4:before {
                 
             }
-      
-            
-            
-            
-        
-  
-/*Row*/
-
-/*Column*/
-
-/*Title*/
-.dorik-heading-vs35e4ku {
-            color: #FDFDFD;
-  text-transform: uppercase; 
-
-        }
-    
-
-      .dorik-heading-vs35e4ku {
-        
-      }
-
-      .dorik-heading-vs35e4ku p{
-        display:inline;
-      }
-      
-      .dorik-heading-vs35e4ku .dorik-heading__dynamic span {
-        display:inline-block;
-      }
-      
       
             
             
@@ -3409,10 +3267,12 @@ color: rgba(229, 234, 255, 0.7);
 
 /*Custom Code*/
 
+/*Row*/
+
 /*Column*/
 
 /*Button*/
-.dorik-button-wb2w3t0u {
+.dorik-button-90a7x64q {
               padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 20px;
@@ -3434,41 +3294,6 @@ background-image: linear-gradient(45deg, #FC466B 0%, #3F5EFB 100%);
   background-repeat: no-repeat; 
 
         }
-    .dorik-button-wb2w3t0u-wrapper {
-  text-align: center; 
-
-}
-.dorik-button-wb2w3t0u .icon {
-        ;
-        transition: null
-        
-    }
-    .dorik-button-wb2w3t0u:hover .icon {
-        color: null;
-    }
-/*Button*/
-.dorik-button-90a7x64q {
-              padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-text-decoration: none;
-  justify-content: center; 
-  border-radius: 5px 5px 5px 5px; 
-  border-width: 0px;
-
-
-background-color: #4450E7;
-  font-size: 24px; 
-color: #FFFFFF;
-  line-height: 18px; 
-  width: 100%; 
-  text-transform: none; 
-  margin-top: 31px;
-background-image: linear-gradient(45deg, #4EFC46 0%, #3F5EFB 100%);
-  background-repeat: no-repeat; 
-
-        }
     .dorik-button-90a7x64q-wrapper {
   text-align: center; 
 
@@ -3487,6 +3312,10 @@ background-image: linear-gradient(45deg, #4EFC46 0%, #3F5EFB 100%);
 
         }
     
+/*Column*/
+
+/*Custom Code*/
+
 /*Row*/
 .dorik-row-bhgwyjvt {
               margin-top: 50px;
@@ -4216,12 +4045,12 @@ text-decoration: none;
   border-width: 0px;
 
 
-background-color: #5E187A;
+background-color: #4450E7;
   font-size: 19px; 
 color: #FFFFFF;
   line-height: 18px; 
   text-transform: uppercase; 
-background-image: radial-gradient(ellipse at center, #130101 0%, #3F5EFB 100%);
+background-image: radial-gradient(ellipse at center, #FC466B 0%, #3F5EFB 100%);
   background-repeat: no-repeat; 
   margin-top: 40px;
   margin-bottom: 40px;
@@ -4315,14 +4144,6 @@ background-color: #9D2E39;
   width: 100%; 
 
 }
-
-/*Column*/
-
-/*Video*/
-
-/*Column*/
-
-/*Video*/
 
 /*Column*/
 
