@@ -2319,55 +2319,7 @@ background-color: #FFFFFF;
 	   
 	}
 	
-/*Column*/
-
-/*Horizontal Line*/
-.dorik-line-yzczs650 {
-              border-width: 0;
-background-color: #110202;
-  height: 20px; 
-  margin-top: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  padding-top: 0px;
-  padding-left: 0px;
-  padding-bottom: 0px;
-  padding-right: 0px;
-  width: 100%; 
-
-        }
-    
-/*Text*/
-.dorik-text-lt27vpkf {
-              text-align: left; 
-
-        }
-    
-	.dorik-text-lt27vpkf {
-	   
-	}
-	
-/*Horizontal Line*/
-.dorik-line-qwxjjel8 {
-              border-width: 0;
-background-color: #110202;
-  height: 20px; 
-  margin-top: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  padding-top: 0px;
-  padding-left: 0px;
-  padding-bottom: 0px;
-  padding-right: 0px;
-  width: 100%; 
-
-        }
-    
 /*Row*/
-
-/*Column*/
 
 /*Column*/
 
@@ -2468,6 +2420,52 @@ background-color: #00FF67;
 
 /*Custom Code*/
 
+/*Column*/
+
+/*Horizontal Line*/
+.dorik-line-yzczs650 {
+              border-width: 0;
+background-color: #110202;
+  height: 20px; 
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  width: 100%; 
+
+        }
+    
+/*Text*/
+.dorik-text-lt27vpkf {
+              text-align: center; 
+
+        }
+    
+	.dorik-text-lt27vpkf {
+	   
+	}
+	
+/*Horizontal Line*/
+.dorik-line-qwxjjel8 {
+              border-width: 0;
+background-color: #110202;
+  height: 20px; 
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  width: 100%; 
+
+        }
+    
 /*Row*/
 .dorik-row-69buh7g3 {
             box-shadow: none;
